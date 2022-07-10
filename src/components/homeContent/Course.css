@@ -1,0 +1,9 @@
+.modal-90w {
+    width: 90%;
+    max-width: none!important;
+}
+
+.accordion .card-header:hover {
+    background-color: #ccffff;
+    cursor: pointer;
+}
